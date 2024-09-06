@@ -4,7 +4,7 @@
 - **Mobile Assets**: Includes hidden assets such as personal data, photos, contacts, banking apps, and historical information, which are often more valuable than the physical device.
 - **User Behavior**: Common unsafe behaviors include weak passwords, clicking on unknown links, using public Wi-Fi, jailbreaking devices, and ignoring security updates, which increase the risk of attacks.
 - **Human Error**: Both non-technical and technical users contribute to vulnerabilities due to convenience, curiosity, and lack of awareness about security risks.
-<img src="https://github.com/bojunz/Mobile-Phone-Security/blob/main/Asset.png" alt="Demo Login Page GIF" style="border: 2px solid black; max-width: 100%; height: 400px;">
+<img src="https://github.com/bojunz/Mobile-Phone-Security/blob/main/Asset.png" alt="Demo Login Page GIF" style="border: 2px solid black; max-width: 100%; height: 250px;">
 
 ### 2. Research Method
 - **Approach**: A qualitative analysis was used to assess common mobile security threats and user behaviors. The study involved reviewing existing literature, analyzing real-world attack cases, and surveying user habits to understand prevalent risks.
@@ -17,8 +17,8 @@
 - **Password Attacks**: Methods such as brute force, dictionary attacks, and credential stuffing target weak or reused passwords, compromising accounts.
 - **Wi-Fi Attacks**: Public Wi-Fi networks are common vectors for man-in-the-middle attacks, where attackers intercept unencrypted data between the device and the server.
 - **Malware and Ransomware**: Malicious apps can steal data or funds, while ransomware locks devices and demands payment for data release, affecting both personal and business information.
-<img src="https://github.com/bojunz/Mobile-Phone-Security/blob/main/vulnerability.png" alt="Demo Login Page GIF" style="border: 2px solid black; max-width: 100%; height: 400px;">
-<img src="https://github.com/bojunz/Mobile-Phone-Security/blob/main/Risk.png" alt="Demo Login Page GIF" style="border: 2px solid black; max-width: 100%; height: 400px;">
+<img src="https://github.com/bojunz/Mobile-Phone-Security/blob/main/vulnerability.png" alt="Demo Login Page GIF" style="border: 2px solid black; max-width: 100%; height: 200px;">
+<img src="https://github.com/bojunz/Mobile-Phone-Security/blob/main/Risk.png" alt="Demo Login Page GIF" style="border: 2px solid black; max-width: 100%; height: 200px;">
 
 ### 4. Practice and Safety Guidelines
 - **Safety Guide**: The paper provides detailed tables of mobile assets, vulnerabilities, risks, and controls to help users mitigate threats effectively.
