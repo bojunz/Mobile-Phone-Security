@@ -1,5 +1,6 @@
 # Mobile-Phone-Security
-
+[PowerPoint](https://github.com/bojunz/Mobile-Phone-Security/blob/main/IS464_pre_Bojun.pptx) <br>
+<img src="https://github.com/bojunz/Mobile-Phone-Security/blob/main/ppt_homepage.png" alt="Demo Login Page GIF" style="border: 2px solid black; max-width: 100%; height: 250px;">
 ### 1. Introduction and Identifying Mobile Assets
 - **Mobile Assets**: Includes hidden assets such as personal data, photos, contacts, banking apps, and historical information, which are often more valuable than the physical device.
 - **User Behavior**: Common unsafe behaviors include weak passwords, clicking on unknown links, using public Wi-Fi, jailbreaking devices, and ignoring security updates, which increase the risk of attacks.
